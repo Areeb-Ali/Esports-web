@@ -4,7 +4,7 @@ Designing a professional and multi-functional esports news and tournaments websi
 
 1. **Header:**
    - Logo: Professional and recognizable esports logo.
-   - Navigation: Clear and concise menu with categories such as Home, News, Tournaments, Teams, About Us, and Contact.
+   - Navigation: Clear and concise menu with categories such as Home, News, Tournaments, Teams, Sponsors, About Us, and Contact.
 
 2. **Hero Section:**
    - High-quality background image showcasing esports action.
