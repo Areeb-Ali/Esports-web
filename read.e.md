@@ -1,4 +1,4 @@
-Designing a professional and multi-functional esports news and tournaments website involves combining aesthetics, functionality, and user experience. Below is a suggested structure for your website, including key features and design elements:
+Designing a professional and multi-functional esports news and tournaments website involves combining aesthetics, functionality, and user experience including key features and design elements:
 
 ### Homepage:
 
