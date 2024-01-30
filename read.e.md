@@ -1,5 +1,12 @@
 Designing a professional and multi-functional esports news and tournaments website involves combining aesthetics, functionality, and user experience including key features and design elements:
 
+colours 
+Optional Tertiary: Neon Green (#78FF22) - A splash of neon green can be sparingly used for calls to action, interactive elements, and temporary highlights.
+
+Accent: White (#FFFFFF) - Crisp white accents inject clarity and focus, ideal for logos, text with high visibility, and subtle highlights.
+
+Dominant: Black (#000000) - A bold black base creates a sophisticated and modern feel, suitable for backgrounds, text, and key UI elements.
+
 ### Homepage:
 
 1. **Header:**
